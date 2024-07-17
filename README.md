@@ -2,6 +2,8 @@
 
 This repository contains a Python script for detecting lane lines in a video using OpenCV and NumPy. The script processes each frame of the video to identify lane markings and overlay them on the original video.
 
+![Lane Detection Example](lane.png)
+
 ## Features
 
 - **Lane Detection**: Detects lane lines in a video using edge detection and Hough line transform.
